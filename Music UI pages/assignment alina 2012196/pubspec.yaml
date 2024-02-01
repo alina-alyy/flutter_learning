@@ -1,0 +1,35 @@
+name: layoutsandform
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  drop_shadow: ^0.0.1+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+        - assets/
+        - assets/imge.png
+        - assets/icon2.png
+        - assets/dropdown.png
+        - assets/heart.png
+        - assets/icon.png
+        - assets/voice.png
+        - assets/img.png
+        - assets/music.png
+        - assets/forward.png
+        - assets/backward.png
+        - assets/try.png
+        - assets/add.png
+        - assets/loop.png
